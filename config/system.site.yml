@@ -1,0 +1,14 @@
+uuid: 1438564e-3b7d-44a1-87ba-13954a2d0fab
+name: newcircleci
+mail: shaal@palantir.net
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
